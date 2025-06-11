@@ -13,16 +13,6 @@ This project explores the mental health status of individuals in Cambodia using 
 - Jupyter Notebook
 - Logistic Regression
 
-## Files Included
-
-| File | Description |
-|------|-------------|
-| `mental_analysis_notebook.ipynb` | Full data analysis and model training |
-| `final_report.docx` | Project report as per submission guidelines |
-| `presentation.pptx` | 8-minute project presentation |
-| `mental_health.csv` | Cleaned dataset used for training |
-| `README.md` | Project overview and instructions |
-
 ## Dataset Information
 
 The dataset contains survey responses related to mental health indicators, collected from individuals in Cambodia. It includes features like:
